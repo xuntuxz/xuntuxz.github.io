@@ -3,5 +3,4 @@ http://example.com/2023/01/20/%E7%B1%B3%E5%85%94%E6%89%8B%E8%A1%A83%E7%A0%B4%E8%
 http://example.com/2023/01/20/%E7%B1%B3%E5%85%945x%E4%BB%A5%E5%8F%8A5pro%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95/
 http://example.com/2023/01/20/%E7%B1%B3%E5%85%94-%E5%B0%8F%E5%AF%BB%E5%AE%89%E5%8D%934-4-4%E6%9C%BA%E5%9E%8B%EF%BC%88%E7%B1%B3%E5%85%945c6x4c4x%EF%BC%89%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95/
 http://example.com/link/index.html
-http://example.com/2023/01/20/hello-world/
 http://example.com/
