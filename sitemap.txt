@@ -1,5 +1,4 @@
 http://example.com/2023/01/28/%E5%85%B3%E4%BA%8E%E7%B1%B3%E5%85%94%E7%B3%BB%E5%88%97%E6%89%8B%E8%A1%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF/
-http://example.com/2023/01/28/read/
 http://example.com/about/index.html
 http://example.com/link/index.html
 http://example.com/2023/01/20/%E5%9B%9B%E7%82%B9%E7%BA%BF%E8%B4%AD%E4%B9%B0%E9%93%BE%E6%8E%A5/
