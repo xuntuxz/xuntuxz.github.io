@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-24T13:17:13.881Z</updated>
+  <updated>2023-06-28T14:11:18.205Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小寻/米兔表的配置信息（1）</title>
+    <link href="http://example.com/2023/06/28/%E5%B0%8F%E5%AF%BB-%E7%B1%B3%E5%85%94%E8%A1%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF%EF%BC%881%EF%BC%89/"/>
+    <id>http://example.com/2023/06/28/%E5%B0%8F%E5%AF%BB-%E7%B1%B3%E5%85%94%E8%A1%A8%E7%9A%84%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF%EF%BC%881%EF%BC%89/</id>
+    <published>2023-06-28T13:59:23.000Z</published>
+    <updated>2023-06-28T14:11:18.205Z</updated>
+    
+    <content type="html"><![CDATA[<p><font color=red>TIP:此处的N/A指未知</font><br>| 型号    | 运存   | 存储    | CPU型号  | 安卓版本 | 推荐程度  |<br>| 米兔Q   | N/A   | N/A     | N/A      | 非安卓   | 不推荐   |<br>| 米兔2   | N/A   | N/A     | N/A      | 非安卓   | 不推荐   |<br>| 米兔2S  | N/A   | N/A     | N/A      | 非安卓   | 不推荐   |<br>| 米兔2C  | N/A   | N/A     | N/A      | 非安卓   | 不推荐   |<br>| 米兔3   | 512MB | 4GB     | MT2503a  | 7.1      | 比较推荐 |<br>| 米兔3C  | 256MB | 512MB   | 9820E    | 4.4.4    | 不推荐   |<br>| 米兔4   | 512MB | 4GB     | SL8521e  | 4.4.4    | 不推荐   |<br>| 米兔4X  | 512MB | 4GB     | SL8521e  | 4.4.4    | 不推荐   |<br>| 米兔4C  | 256mb | 512MB   | SL8521e  | 4.4.4    | 不推荐   |<br>| 米兔4Pro| <font color=red>1GB</font> | <font color=red>8GB   </font> | <font color=red>Wear2500</font> | <font color=red>8.1    </font> |<font color=red>非常推荐</font> |<br>| 米兔5X  | 512MB | 4GB     | SL8541e  | <font color=red>8.1   </font> |<font color=red>非常推荐</font>|<br>| 米兔5C  | 256MB | 512MB   | SL8521e  | 4.4.4    | 不推荐 |<br>| 米兔5Pro| <font color=red>1GB</font> | <font color=red>8GB   </font> | SL8541e  | <font color=red>8.1</font> |<font color=red>非常推荐</font>|<br>| 米兔6   | 1GB   | 8GB     | SL8521e  | 4.4.4    | 不推荐 |<br>| 米兔6X  | 512MB | 4GB     | SL8521e  | 4.4.4    | 不推荐 |<br>| 米兔6C  | 512MB | 4GB     | SL8521e  | 4.4.4    | 不推荐 |<br>| 小寻Y1  | 512MB | 4GB     | MT6739   | <font color=red>8.1   </font> | <font color=red>非常推荐</font></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;font color=red&gt;TIP:此处的N/A指未知&lt;/font&gt;&lt;br&gt;| 型号    | 运存   | 存储    | CPU型号  | 安卓版本 | 推荐程度  |&lt;br&gt;| 米兔Q   | N/A   | N/A     | N/A      | 非安卓   </summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>6c6x全面封禁破解</title>
